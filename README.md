@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm second chances (twoNDchances, 2ndchances, s3cond_chanc3s, ...)</h1>
-<h3 align="center">🌱 I’m a student at university currently, I have great passion for Cybersecurity, SysOps, Backend Development.</h3>
+<h3 align="center">🌱 I’m a student at university currently, I have great passion for Security Engineer, SysOps, Backend Development.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
